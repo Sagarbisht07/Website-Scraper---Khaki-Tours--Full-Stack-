@@ -38,7 +38,7 @@ Media :
 ## Installation
 ```bash
 # Clone the repo
-git clone <repo-url>
+git clone <(https://github.com/Sagarbisht07/Website-Scraper---Khaki-Tours--Full-Stack-.git)>
 cd "Website Scraper – Khaki Tours (Full Stack)"
 
 # Backend
