@@ -8,7 +8,6 @@
 - [Running the Project](#running-the-project)
 - [API Reference](#api-reference)
 - [Tech Stack](#tech-stack)
-- [License](#license)
 
 ## Project Overview
 A full‑stack web scraping system for https://khakitours.com. It provides an Express API backend that scrapes tour data and a React dashboard to view and manage the data.
