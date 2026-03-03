@@ -54,7 +54,7 @@ npm install
 ### Backend API
 ```bash
 cd backend
-node server.js
+npm start
 ```
 API runs at **http://localhost:5000**  
 Scrape endpoint: **GET http://localhost:5000/scrape**
