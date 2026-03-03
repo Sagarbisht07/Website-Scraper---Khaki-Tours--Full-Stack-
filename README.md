@@ -20,7 +20,8 @@ A full‑stack web scraping system for https://khakitours.com. It provides an Ex
 - Simple CRUD‑style API endpoints.
 - Interactive dashboard built with React 18 + Vite.
 
-## Screenshots (Visual representation of the scraping dashboard)
+## Screenshots 
+(Visual representation of the scraping dashboard)
 Agency Info :
 <img width="2547" height="732" alt="image" src="https://github.com/user-attachments/assets/9cd53ac4-999a-4c47-9c8c-40b9e66027b7" />
 
